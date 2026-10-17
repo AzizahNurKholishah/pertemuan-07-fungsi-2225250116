@@ -54,3 +54,9 @@ Program `utilitas_matematika.py` terdiri atas beberapa fungsi yang memiliki tuga
 ## Refleksi
 
 Setelah mempelajari fungsi Python, saya memahami bahwa program dapat dibagi menjadi beberapa bagian sesuai tugasnya. Dengan menggunakan fungsi, rumus tidak perlu ditulis berulang kali dan program menjadi lebih mudah dibaca. Saya juga memahami perbedaan `print()` dan `return`, penggunaan parameter, serta pentingnya variabel lokal agar tidak terjadi kesalahan saat program dijalankan.
+
+## Exit Ticket
+
+1. **Satu alasan utama menggunakan fungsi:** Agar kode program lebih terstruktur, tidak perlu ditulis berulang kali, dan dapat digunakan kembali.
+2. **Satu kesalahan yang saya temukan terkait parameter atau return:** Kesulitan memahami perbedaan print() dan return. Setelah mempelajarinya, saya memahami bahwa print() digunakan untuk menampilkan hasil ke layar, sedangkan return digunakan untuk mengembalikan nilai agar dapat digunakan kembali dalam perhitungan lain.
+3. **Materi Pertemuan 1-7 yang perlu saya ulang untuk persiapan UTS:** nested loop, fungsi, parameter, return, dan scope. 
